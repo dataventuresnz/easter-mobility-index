@@ -1,0 +1,33 @@
+regc_2018_desc,variant,value
+Northland Region,eas_to_eas,-37.09
+Auckland Region,eas_to_eas,-21
+Waikato Region,eas_to_eas,-28.61
+Manawatu-Wanganui Region,eas_to_eas,-17.62
+Bay of Plenty Region,eas_to_eas,-25.99
+Hawke's Bay Region,eas_to_eas,-20.39
+Gisborne Region,eas_to_eas,-28.43
+Taranaki Region,eas_to_eas,-22.68
+Wellington Region,eas_to_eas,-24.18
+Marlborough Region,eas_to_eas,-32.53
+Nelson Region,eas_to_eas,-23.14
+Canterbury Region,eas_to_eas,-25.84
+Tasman Region,eas_to_eas,-32.04
+West Coast Region,eas_to_eas,-45.64
+Southland Region,eas_to_eas,-27.09
+Otago Region,eas_to_eas,-33.79
+Northland Region,before_to_eas,3.88
+Auckland Region,before_to_eas,7.25
+Waikato Region,before_to_eas,5.93
+Manawatu-Wanganui Region,before_to_eas,5.51
+Bay of Plenty Region,before_to_eas,6.34
+Hawke's Bay Region,before_to_eas,6.08
+Gisborne Region,before_to_eas,6.14
+Taranaki Region,before_to_eas,5.13
+Wellington Region,before_to_eas,6.63
+Marlborough Region,before_to_eas,4.58
+Nelson Region,before_to_eas,-0.21
+Canterbury Region,before_to_eas,4.07
+Tasman Region,before_to_eas,0.21
+West Coast Region,before_to_eas,2.94
+Southland Region,before_to_eas,2.54
+Otago Region,before_to_eas,1.97

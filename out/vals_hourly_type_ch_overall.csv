@@ -1,0 +1,13 @@
+sa2_type,variant,value
+Retail,Easter to Easter,-30.6
+Transit,Easter to Easter,-4.37
+Residential,Easter to Easter,19.2
+Tourism,Easter to Easter,-67.5
+Workplace,Easter to Easter,-27.43
+Recreational,Easter to Easter,-35.66
+Retail,Lockdown to Easter,-2.95
+Transit,Lockdown to Easter,0.47
+Residential,Lockdown to Easter,0.3
+Tourism,Lockdown to Easter,-3.5
+Workplace,Lockdown to Easter,-4.12
+Recreational,Lockdown to Easter,0.27
