@@ -1,5 +1,5 @@
 
-# THIS METHOD HAS SINCE BEEN DEPRECATED
+# This method has since been deprecated
 
 We have been developing our weekly mobility report and the methodology has since been changed. Our [weekly mobility repo](https://github.com/dataventuresnz/mobility-index) will have the latest methodology for mobility estimation.
 
