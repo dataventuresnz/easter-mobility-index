@@ -1,3 +1,8 @@
+
+# THIS METHOD HAS SINCE BEEN DEPRECATED
+
+We have been developing our weekly mobility report and the methodology has since been changed. Our [weekly mobility repo](https://github.com/dataventuresnz/mobility-index) will have the latest methodology for mobility estimation.
+
 # Mobility index for Easter mobility study
 
 Data Ventures developed used our aggregated and anonymised cellphone data to estimate the amount of mobility within regional councils, or based on categories such as recreation, retail, workplace areas. This README briefly outlines how we developed our mobility index and the repository includes our code for data released on mobility over the Easter period in 2020 during level four lockdown.
